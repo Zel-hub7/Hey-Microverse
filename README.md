@@ -1,2 +1,2 @@
-#Microverse Project 1
-My first Microverse Project about adding linters to my github
+# Microverse Project 
+my first Microverse Project and it is about adding html and css linters to our project.
